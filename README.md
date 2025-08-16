@@ -27,6 +27,8 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-
+```css
+<!-- Code below is needed to enable statistics -->
 <script defer src="//webviso.yestool.org/js/index.min.js"  data-base-url="https://analytics.greenhandzdl.moe"></script>
 Page visits:<span id="page_pv"></span> Number of visitors to this page:<span id="page_uv"></span>
+```
