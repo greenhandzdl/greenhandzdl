@@ -9,7 +9,7 @@
     <td colspan="2" style="border: none;"><a href="https://gitroll.io/profile/uLuqeE3Ul6EM95bLhjX6Ywmum9TM2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLuqeE3Ul6EM95bLhjX6Ywmum9TM2?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a></td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandzdl&hide=shell,html,css,javascript,lua&layout=compact" alt="Greenhandzdl's Lang stats" /></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandzdl&hide=shell,html,css,javascript,lua&layout=compact&theme=synthwave" alt="Greenhandzdl's Lang stats" /></td>
     <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=greenhandzdl&show_icons=true&theme=merko" alt="Greenhandzdl's GitHub stats" /></td>
   </tr>
 </table>
