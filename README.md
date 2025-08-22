@@ -37,8 +37,9 @@ Currently, I'm actively contributing to open-source projects and continuously im
 [![trophy](https://github-profile-trophy.vercel.app/?username=greenhandzdl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- feed start -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- feed end -->
+
 
 
