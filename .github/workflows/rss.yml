@@ -8,14 +8,14 @@ jobs:
   readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: sarisia/actions-readme-feed@v1
-        id: feed
-        with:
-          file: 'README.md'
-          format: '- ${day} ${monthlong} - [${title}](${url})'
-          timezone: 'Europe/London'
-          url: |
-            https://j.greenhandzdl.moe/feed.xml
-      - if: ${{ steps.feed.outputs.changed == true }}
-        uses: sarisia/actions-commit@master
+    - uses: actions/checkout@v4
+    - uses: sarisia/actions-readme-feed@v1
+      with:
+        url: 'https://j.greenhandzdl.moe/feed.xml'
+        file: 'README.md'
+    - run: |
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+        git add .
+        git commit -m "docs: update feed" || true
+        git push
