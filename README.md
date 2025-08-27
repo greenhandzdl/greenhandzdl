@@ -32,9 +32,6 @@ Currently, I'm actively contributing to open-source projects and continuously im
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=greenhandzdl&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Stat Trophies 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=greenhandzdl&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Latest Posts
 <!-- feed start -->
